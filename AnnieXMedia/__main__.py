@@ -1,4 +1,7 @@
 ﻿# Authored By Certified Coders © 2025
+from web import keep_alive
+keep_alive()
+
 import asyncio
 import importlib
 
